@@ -1,0 +1,2 @@
+# coinminer
+Coin Miner
