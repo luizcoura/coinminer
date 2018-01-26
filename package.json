@@ -25,6 +25,8 @@
   "homepage": "https://github.com/luizcoura/coinminer#readme",
   "dependencies": {
     "axios": "^0.17.1",
-    "colors": "^1.1.2"
+    "ccxt": "^1.10.819",
+    "colors": "^1.1.2",
+    "technicalindicators": "^1.1.1"
   }
 }
